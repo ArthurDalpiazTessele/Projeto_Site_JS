@@ -1,9 +1,7 @@
 // schemas/home.js
 //schemaTypes.js
 
-// Exportar o objeto que representa a página inicial
 export default({
-    // DiretrizCards
     name: 'diretrizcard',
     type: 'document',
     title: 'diretrizCard',

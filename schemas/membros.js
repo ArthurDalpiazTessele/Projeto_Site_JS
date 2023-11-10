@@ -1,9 +1,7 @@
-// schemas/home.js
+// schemas/membros.js
 //schemaTypes.js
 
-// Exportar o objeto que representa a página Comissão Avaliativa
-export default {
-    // Membros
+export default ({
     name: 'membros',
     type: 'document',
     title: 'Membros',
@@ -28,5 +26,5 @@ export default {
             type: 'image',
             title: 'Imagem'
           },
-        ]
-    }
+    ]
+})

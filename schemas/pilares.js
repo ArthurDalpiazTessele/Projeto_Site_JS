@@ -1,4 +1,7 @@
-export default {
+// schemas/pilares.js
+//schemaTypes.js
+
+export default ({
     name: 'pilares',
     type: 'document',
     title: 'Pilares dos IES no SINAES',
@@ -27,5 +30,5 @@ export default {
             title: 'pilar-3',
             description:'texto'
           },
-      ] 
-    }
+    ] 
+})

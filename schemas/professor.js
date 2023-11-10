@@ -1,8 +1,7 @@
-// schemas/comissao-avaliadora.js
+// schemas/professor.js
 //schemaTypes.js
 
-// Exportar o objeto que representa a página comissão avaliadora
-export default {
+export default ({
   name: 'professor',
   type: 'document',
   title: 'Professor',
@@ -27,5 +26,5 @@ export default {
           type: 'image',
           title: 'Imagem'
         },
-    ] 
-  }
+  ] 
+})

@@ -1,9 +1,7 @@
-// schemas/home.js
+// schemas/perguntas.js
 //schemaTypes.js
 
-// Exportar o objeto que representa a página FAQ
 export default({
-    // Perguntas
     name: 'perguntas',
     type: 'document',
     title: 'Perguntas FAQ',

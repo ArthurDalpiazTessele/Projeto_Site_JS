@@ -1,4 +1,7 @@
-export default {
+// schemas/estatutocpa.js
+//schemaTypes.js
+
+export default ({
     name: 'estatutocpa',
     type: 'document',
     title: 'Estatuto CPA',
@@ -18,5 +21,5 @@ export default {
             type: 'string',
             title: 'Importância em Avaliar'
           },
-      ] 
-    }
+    ] 
+})

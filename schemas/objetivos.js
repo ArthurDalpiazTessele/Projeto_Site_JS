@@ -1,9 +1,7 @@
-// schemas/home.js
+// schemas/objetivo.js
 //schemaTypes.js
 
-// Exportar o objeto que representa a página inicial
 export default({
-    // Objeto
     name: 'objetivo',
     type: 'document',
     title: 'objetivo',

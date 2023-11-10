@@ -1,9 +1,7 @@
-// schemas/home.js
+// schemas/pontosPositivos.js
 //schemaTypes.js
 
-// Exportar o objeto que representa a página inicial
 export default({
-    // Pontos Positivos
     name: 'pontosPositivos',
     type: 'document',
     title: 'pontosPositivos',
